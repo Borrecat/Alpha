@@ -1,7 +1,7 @@
 @echo off
 title Echo!!!
 :echo
-color 6
+color 7
 echo Hello?
-ping localhost -n 1 > nul
+ping localhost -n 3 > nul
 goto echo
