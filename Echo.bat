@@ -3,5 +3,5 @@ title Echo!!!
 :echo
 color 6
 echo Hello?
-ping localhost -n 1 > 
+ping localhost -n 1 > nul
 goto echo
